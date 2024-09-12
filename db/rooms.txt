@@ -1,0 +1,1 @@
+number|category|seats|status|
